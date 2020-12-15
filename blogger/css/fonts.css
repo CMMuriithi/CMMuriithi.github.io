@@ -1,0 +1,11 @@
+/*fonts/Courgette*/
+@font-face{
+    font-family:courgette;
+    src:url('../fonts/Courgette-Regular.ttf');
+}
+
+/*fonts/lateef*/
+@font-face{
+    font-family:Lateef;
+    src:url('../fonts/Lateef-Regular.ttf');
+}
